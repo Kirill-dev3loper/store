@@ -210,13 +210,15 @@
 
 @media(min-width:1110px){
     .main_two_block{
-        height: 250vh;
+        height: 240vh;
     }
 }
 
+
+
 @media(min-width:1300px){
     .main_two_block{
-        height: 220vh;
+        height: 240vh;
     }
 }
 
@@ -243,17 +245,21 @@
     }
 }
 
-@media(max-width:1020px){
+
+@media(max-width:1021px){
     .main_two_block{
         height: 350vh;
     }
 }
 
+
 @media(max-width:680px){
     .main_two_block{
-        height: 680vh;
+        height: 690vh;
     }
 }
+
+
 
 .product{
     width: 350px;
